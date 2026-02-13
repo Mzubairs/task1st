@@ -1,0 +1,26 @@
+body{
+    background-color:rgb(242, 243, 243);
+    padding-top: 70px;
+}
+.navbar-brand:hover{
+    color: chartreuse;
+}
+.card-title{
+    color: rgb(3, 3, 3);
+    font-style:italic;
+}
+#newmobiles{
+    height: 50px;
+    
+}
+#aaa{
+    border: 2px solid lightseagreen;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding-left: 150px;
+} 
+#form{
+    border: 2px solid lightseagreen;
+}
